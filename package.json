@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "gnu-plot": "^0.1.2",
-    "pretty-print": "^2.0.0"
+    "pretty-time": "^1.1.0"
   }
 }
